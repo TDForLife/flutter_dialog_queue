@@ -1,6 +1,6 @@
 name: dialog_queue
 description: A dialog queue for you to manage your dialogs to display on flutter platform.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/TDForLife/flutter_dialog_queue
 
 environment:
